@@ -2,6 +2,8 @@ playwright.dev: https://playwright.dev/   // API // page
 uuid-npm: https://www.npmjs.com/package/uuid
 regex101: https://regex101.com/
 npmjs: npmjs.com: node-fetch
+docker: https://hub.docker.com/
+playwright/docker: https://playwright.dev/docs/docker
 
 Art Shopping Store: http://localhost:2221/
 Art Shopping Store Bash: "C:\Users\white\Downloads\Unconfirmed 136440.crdownload"
